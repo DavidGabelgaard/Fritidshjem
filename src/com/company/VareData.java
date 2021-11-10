@@ -2,9 +2,9 @@ package com.company;
 
 public class VareData implements java.io.Serializable {
 
-    int antal;
-    String vareNavn;
-    double stykPris;
+    private int antal;
+    private String vareNavn;
+    private double stykPris;
 
 
 
